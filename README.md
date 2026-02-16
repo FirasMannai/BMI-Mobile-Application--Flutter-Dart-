@@ -130,11 +130,4 @@ flutter run
 
 ---
 
-## 🎯 Future Improvements
-
-* 🔐 Biometric authentication
-* ☁️ Cloud sync (Firebase)
-* 📤 Export history as CSV / PDF
-* 📉 Advanced health analytics
-* 🧑‍⚕️ Medical disclaimer & guidance
 

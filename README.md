@@ -63,13 +63,17 @@ Water % ≈ (1 − bodyFat / 100) × constant
 
 ```text
 lib/
-├── input_page.dart        # Main BMI input screen
-├── result_page.dart       # Result display with health info
-├── bmi_measurement.dart   # BMI model + SharedPreferences logic
-├── bmi_history_page.dart  # BMI history graph and list
-├── notification_service.dart
-├── theme_provider.dart
-└── main.dart
+│── main.dart
+│── input_page.dart
+│── result_page.dart
+│── bmi_history_page.dart
+│── bmi_measurement.dart
+│── bmi_provider.dart
+│── biometric_login_page.dart
+│── splash_page.dart
+│── notification_service.dart
+│── theme_provider.dart
+│── utils.dart
 ```
 
 ---
